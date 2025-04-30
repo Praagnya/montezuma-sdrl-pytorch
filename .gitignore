@@ -1,1 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
 venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+*.out
+*.err
+
+# PyTorch checkpoints
+*.pth
+*.pt
+
+# TensorBoard logs
+tensorboard_logs/
+summary_v1/
+
+# Environment / system-specific files
+.DS_Store
+.env
+*.swp
+
+# Clingo and planner files
+*.lp
+constraint.lp
+goal.lp
+initial.lp
+q.lp
+
+# Compiled C/C++ or other binaries
+*.so
+*.o
+*.a
+*.dll
+
+# VS Code settings
+.vscode/
+
+# Backup or temporary files
+*~
+*.bak
+*.tmp
