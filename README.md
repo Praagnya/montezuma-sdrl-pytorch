@@ -5,14 +5,14 @@ This repository contains a PyTorch-based implementation of **Symbolic Deep Reinf
 ## 📁 Project Structure
 <code>
 montezuma-sdrl-pytorch/
-├── agents/                 # Implementation of SDRL agents
-├── environments/           # Environment wrappers and utilities
-├── skills/                 # Learned skills and option policies
-├── utils/                  # Helper functions and common utilities
-├── main.py                 # Entry point for training and evaluation
-├── config.yaml             # Configuration file for hyperparameters
-├── requirements.txt        # Dependency list
-└── README.md               # Project documentation
+├── agents/                                     # Implementation of SDRL agents
+├── environments/                               # Environment wrappers and utilities
+├── skills/                                     # Learned skills and option policies
+├── utils/                                      # Helper functions and common utilities
+├── hybrid_asp_dqn_training_more_dqns_new.py    # Entry point for training and evaluation
+├── config.yaml                                 # Configuration file for hyperparameters
+├── requirements.txt                            # Dependency list
+└── README.md                                   # Project documentation
 </code>
 </pre>
 
