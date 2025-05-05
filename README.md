@@ -3,6 +3,7 @@
 This repository contains a PyTorch-based implementation of **Symbolic Deep Reinforcement Learning (SDRL)** for the Atari game **Montezuma's Revenge**. SDRL combines classical symbolic planning with hierarchical reinforcement learning to address environments with sparse rewards.
 
 ## 📁 Project Structure
+
 <code>
 montezuma-sdrl-pytorch/
 ├── agents/                                     # Implementation of SDRL agents
