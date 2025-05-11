@@ -43,7 +43,7 @@ montezuma-sdrl-pytorch/
     ```bash
     python hybrid_asp_dqn_training_more_dqns_new.py
 
-## Key Features
+## ⚡️ Key Features
 
 - **Symbolic planner integration using Clingo**  
   Leverages ASP (Answer Set Programming) for interpretable goal planning.
