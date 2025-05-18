@@ -62,7 +62,6 @@ montezuma-sdrl-pytorch/
 	•	Python 3.8+
 	•	PyTorch ≥ 1.10
 	•	Clingo ≥ 5.5
-	•	OpenAI Gym
 
 ## 📄 License
 
